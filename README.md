@@ -1,4 +1,4 @@
-## Olá amigos! Bem-vindo!👋
+## Olá amigos! Bem-vindos!👋
 ###### Hello my friends! Welcome!👋
 <p align="center">✨ Aqui você irá encontrar algumas aventuras e treinamentos, busco sempre me manter atualizado constantemente estou aprofundando meu conhecimento desde linguagens solidas e vez ou outra busco conhecimento fora da minha skill de backend. Por isso, se chegou até aqui e queira compartilhar comigo seu conhecimento ou queria fazer um network sinta-se em casa. ✨</p>&nbsp;
 <!--
@@ -15,36 +15,40 @@
 
 #### Main Stack:
 
-<img title= Java src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/71961ad3-962d-4485-ae88-e5d3e3e59ceb" min-width="32px" max-width="32px" width="40px">&nbsp;
-<img title= Python src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/96deeb46-d881-4317-a547-c17bd8613688" min-width="32px" max-width="32px" width="40px">&nbsp;
-<img title= Git src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/2c1c77a5-6bf5-4c43-9e2c-27be2ca68888" min-width="32px" max-width="32px" width="40px">&nbsp;
-<!--
 ![Java](https://img.shields.io/badge/Java-%23FFFFFF?style=for-the-badge&color=%23FF0000)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<!--
+<img title= Java src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/71961ad3-962d-4485-ae88-e5d3e3e59ceb" min-width="32px" max-width="32px" width="40px">&nbsp;
+<img title= Python src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/96deeb46-d881-4317-a547-c17bd8613688" min-width="32px" max-width="32px" width="40px">&nbsp;
+<img title= Git src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/2c1c77a5-6bf5-4c43-9e2c-27be2ca68888" min-width="32px" max-width="32px" width="40px">&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Cypress](https://img.shields.io/badge/cypress-239120?style=for-the-badge&logo=cypress)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)&nbsp;
-![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;-->
+![Graphql](https://img.shields.io/badge/graphql-E10098?style=for-the-badge&logo=graphql&logoColor=white)&nbsp;
+-->
 
 <!--<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">-->
 <img title=James src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/58946fc6-0491-4551-932c-a252ead56951" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
 #### Secondary Stack:
-<img title= HTML5 src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/fa9a0d09-0511-4985-bb47-4d9f37f88d6c" min-width="32px" max-width="32px" width="40px">&nbsp;
-<img title= CSS src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/3d5d2716-58d0-4029-9799-62f1ceabd8f5" min-width="32px" max-width="32px" width="40px">&nbsp;
 
-<!--![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
-#### Studying in this moment:
 
+<!--
+<img title= HTML5 src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/fa9a0d09-0511-4985-bb47-4d9f37f88d6c" min-width="32px" max-width="32px" width="40px">&nbsp;
+<img title= CSS src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/3d5d2716-58d0-4029-9799-62f1ceabd8f5" min-width="32px" max-width="32px" width="40px">&nbsp;
+#### Studying in this moment:
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;-->
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+-->
 
 #### Frameworks & Library:
 

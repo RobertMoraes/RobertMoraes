@@ -15,10 +15,14 @@
 
 #### Main Stack:
 
+<img title= Java src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/71961ad3-962d-4485-ae88-e5d3e3e59ceb" min-width="32px" max-width="32px" width="40px">&nbsp;
+<img title= Python src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/96deeb46-d881-4317-a547-c17bd8613688" min-width="32px" max-width="32px" width="40px">&nbsp;
+<img title= Git src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/2c1c77a5-6bf5-4c43-9e2c-27be2ca68888" min-width="32px" max-width="32px" width="40px">&nbsp;
+<!--
 ![Java](https://img.shields.io/badge/Java-%23FFFFFF?style=for-the-badge&color=%23FF0000)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-<!--![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)&nbsp;
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
@@ -31,14 +35,16 @@
 
 
 #### Secondary Stack:
+<img title= HTML5 src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/fa9a0d09-0511-4985-bb47-4d9f37f88d6c" min-width="32px" max-width="32px" width="40px">&nbsp;
+<img title= CSS src="https://github.com/RobertMoraes/RobertMoraes/assets/34720349/3d5d2716-58d0-4029-9799-62f1ceabd8f5" min-width="32px" max-width="32px" width="40px">&nbsp;
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+<!--![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 
 #### Studying in this moment:
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
+![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;-->
 
 #### Frameworks & Library:
 
@@ -64,7 +70,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+#### Contacts:
 
 <div> 
 <!--<a href="https://www.instagram.com/rafa.alexandrino" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -81,8 +87,8 @@
 
 
 
-<!--
-**RobertMoraes/RobertMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<!--**RobertMoraes/RobertMoraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
